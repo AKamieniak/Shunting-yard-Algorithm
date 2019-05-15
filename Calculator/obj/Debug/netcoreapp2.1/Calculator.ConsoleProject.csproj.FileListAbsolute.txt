@@ -1,0 +1,14 @@
+C:\Users\alkami\source\repos\Academy\ex1-calculator\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.ConsoleProject.deps.json
+C:\Users\alkami\source\repos\Academy\ex1-calculator\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.ConsoleProject.runtimeconfig.json
+C:\Users\alkami\source\repos\Academy\ex1-calculator\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.ConsoleProject.runtimeconfig.dev.json
+C:\Users\alkami\source\repos\Academy\ex1-calculator\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.ConsoleProject.dll
+C:\Users\alkami\source\repos\Academy\ex1-calculator\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.ConsoleProject.pdb
+C:\Users\alkami\source\repos\Academy\ex1-calculator\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.Library.dll
+C:\Users\alkami\source\repos\Academy\ex1-calculator\Calculator\Calculator\bin\Debug\netcoreapp2.1\Calculator.Library.pdb
+C:\Users\alkami\source\repos\Academy\ex1-calculator\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.ConsoleProject.csprojAssemblyReference.cache
+C:\Users\alkami\source\repos\Academy\ex1-calculator\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.ConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\alkami\source\repos\Academy\ex1-calculator\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.ConsoleProject.AssemblyInfoInputs.cache
+C:\Users\alkami\source\repos\Academy\ex1-calculator\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.ConsoleProject.AssemblyInfo.cs
+C:\Users\alkami\source\repos\Academy\ex1-calculator\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.ConsoleProject.csproj.CopyComplete
+C:\Users\alkami\source\repos\Academy\ex1-calculator\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.ConsoleProject.dll
+C:\Users\alkami\source\repos\Academy\ex1-calculator\Calculator\Calculator\obj\Debug\netcoreapp2.1\Calculator.ConsoleProject.pdb

@@ -1,0 +1,9 @@
+C:\Users\alkami\source\repos\Academy\ex1-calculator\Calculator\Calculator.Library\bin\Debug\netstandard2.0\Calculator.Library.deps.json
+C:\Users\alkami\source\repos\Academy\ex1-calculator\Calculator\Calculator.Library\bin\Debug\netstandard2.0\Calculator.Library.dll
+C:\Users\alkami\source\repos\Academy\ex1-calculator\Calculator\Calculator.Library\bin\Debug\netstandard2.0\Calculator.Library.pdb
+C:\Users\alkami\source\repos\Academy\ex1-calculator\Calculator\Calculator.Library\obj\Debug\netstandard2.0\Calculator.Library.csprojAssemblyReference.cache
+C:\Users\alkami\source\repos\Academy\ex1-calculator\Calculator\Calculator.Library\obj\Debug\netstandard2.0\Calculator.Library.csproj.CoreCompileInputs.cache
+C:\Users\alkami\source\repos\Academy\ex1-calculator\Calculator\Calculator.Library\obj\Debug\netstandard2.0\Calculator.Library.AssemblyInfoInputs.cache
+C:\Users\alkami\source\repos\Academy\ex1-calculator\Calculator\Calculator.Library\obj\Debug\netstandard2.0\Calculator.Library.AssemblyInfo.cs
+C:\Users\alkami\source\repos\Academy\ex1-calculator\Calculator\Calculator.Library\obj\Debug\netstandard2.0\Calculator.Library.dll
+C:\Users\alkami\source\repos\Academy\ex1-calculator\Calculator\Calculator.Library\obj\Debug\netstandard2.0\Calculator.Library.pdb
