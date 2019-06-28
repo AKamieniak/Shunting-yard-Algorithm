@@ -1,7 +1,7 @@
 # Shunting-yard-Algorithm
 
 ## Technical details:
-- implementation of Shunting-Yard algorithm with use of Reverse Polish Notation (RPN)
+Implementation of Shunting-Yard algorithm with use of Reverse Polish Notation (RPN).
 
 ### Example of use
 - Input:
